@@ -1,5 +1,6 @@
 void main() {  
     // lista tipo entero de 3 elementos
+    print("Miscles Ruvalcaba Citlali Aileen Mat 22308051281264 gpo 6J");
    List <int> numeros = [10, 20, 30];
     print("Lista de numeros enteros:");  
     print(numeros);  
